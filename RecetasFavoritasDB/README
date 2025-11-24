@@ -1,0 +1,13 @@
+# SQLServer2022
+Base de datos de Recetas de cocina para cocineros profesionales y usuarios aficionados a cocinar que quieran guardar y consultar sus recetas favorias.
+La base de datos incluye algun registro de ejemplo
+
+Base de datos Recetas de Cocina
+
+## 🏗️ Carpeta: RecetasFavoritasDB	
+  RecetasFavoritasDB: Contiene la base de datos.
+  Documentacion: Manual en Pdf del diseño de la base de datos
+  Script de despliegue: Todos los codigos de programacion para crear desde cero la base de datos.
+
+
+Soporte: https://www.linkedin.com/in/oscarlizarragag/
