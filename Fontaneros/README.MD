@@ -1,9 +1,9 @@
 # SQLServer2022
 
-Soporte: https://www.linkedin.com/in/oscarlizarragag/
-Base de datos de Fontanerias para empresas de fontaneria y fontaneros profesionales.
+### Soporte: https://www.linkedin.com/in/oscarlizarragag/
+### Base de datos de Fontanerias para empresas de fontaneria y fontaneros profesionales.
 
-Base de datos deFontaneros
+### Base de datos de Fontaneros
 
 ## 🏗️ Carpeta: Scripts de despliegue
   Los archivos que tienes dentro de esta carpeta contienen los archivos SQL por el cual, se puede ejecuitar el codigo para crear las tablas, vistas, y procedimientos.
