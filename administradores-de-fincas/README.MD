@@ -1,5 +1,7 @@
 ## Administración de fincas. Base de datos en sql server 2022
-### Soporte: https://www.linkedin.com/in/oscarlizarragag/
+### [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
+
+
 #### Como ejecutar los archivso
 Debes de ejecutar en el SQL Management Studio 22 estos archivos en el mismo orden que estan marcados, en caso contrario puede instalarse mal. Si te equivocas lo recomendable es volver a empezar para asegurarse
 
