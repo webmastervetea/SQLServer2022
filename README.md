@@ -20,10 +20,8 @@ Archivo: [[Carpinteros.rar](https://github.com/webmastervetea/SQLServer2022/blob
 
 * 1 Base de datos que gestiona Empresas de Fontaneria
 Archivo: [[Fontaneros.rar](https://github.com/webmastervetea/SQLServer2022/tree/main/Fontaneros)]
-# SQLServer2022
-  Fontaneros: Contiene la base de datos.
-  Documentacion: Manual en Pdf del diseño de la base de datos
-  Script de despliegue: Todos los codigos de programacion para crear desde cero la base de datos.
+
+
 
 
 
