@@ -1,7 +1,9 @@
 ## Administración de fincas. Base de datos en sql server 2022
 ### Soporte: https://www.linkedin.com/in/oscarlizarragag/
-
+#### Como ejecutar los archivso
 Debes de ejecutar en el SQL Management Studio 22 estos archivos en el mismo orden que estan marcados, en caso contrario puede instalarse mal. Si te equivocas lo recomendable es volver a empezar para asegurarse
+
+Abre cada archivo dentro del SQL Management Studio 22 desde "new query" y haz click en ejecutar
 
 * [[0](https://github.com/webmastervetea/SQLServer2022/blob/main/administradores-de-fincas/0-base-de-datos.sql)] Base de datos (Crea una base de datos llamada "administracion-fincas", puedes cambiar el nombre si lo deseas, modificando el archivo.)
 * [[1](https://github.com/webmastervetea/SQLServer2022/blob/main/administradores-de-fincas/1-tablas-de-comunidades-y-estructura.sql)] Tablas de Comunidades y Estructura
