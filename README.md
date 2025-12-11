@@ -1,7 +1,7 @@
 Soporte: https://www.linkedin.com/in/oscarlizarragag/
 [[]()]
 
-Repositorio de diseños de Bases de datos especificos para profesionales
+Repositorio de diseños de Bases de datos especificos para profesionales 
 
 * 4 Base de datos Administración de Fincas
 Carpeta: [[administradores-de-fincas](https://github.com/webmastervetea/SQLServer2022/tree/main/administradores-de-fincas)]	
@@ -20,6 +20,7 @@ Archivo: [[Carpinteros.rar](https://github.com/webmastervetea/SQLServer2022/blob
 
 * 1 Base de datos que gestiona Empresas de Fontaneria
 Archivo: [[Fontaneros.rar](https://github.com/webmastervetea/SQLServer2022/tree/main/Fontaneros)]
+
 
 
 
